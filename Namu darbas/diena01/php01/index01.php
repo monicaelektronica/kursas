@@ -11,9 +11,9 @@ $populiacija = 574221; ?>
   </head>
   <body>
     <ul>
-      <li><?php echo $miestas ?></li>
-      <li><?php echo $salis ?></li>
-      <li> <?php echo $populiacija ?></li>
+      <li><?php echo $miestas; ?></li>
+      <li><?php echo $salis; ?></li>
+      <li> <?php echo $populiacija; ?></li>
     </ul>
 
   </body>
